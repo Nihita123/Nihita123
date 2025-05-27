@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey there!<br>I'm Nihita Kolukula — an undergraduate student at ABV-IIITM gwalior. <br>I'm passionate about building impactful tech solutions, especially in full-stack web development and open-source contributions.<br>🛠️ Currently building cool stuff with the MERN stack<br>🌱 Always learning something new<br>🚀 Open to collabs, hacks, and internship adventures<br>Let’s connect and create something awesome! 💻✨
-
+Hey there!<br>I'm Nihita Kolukula — an undergraduate student at ABV-IIITM gwalior. <br>I'm passionate about building impactful tech solutions, especially in full-stack web development and open-source contributions.<br>🛠️ Currently building cool stuff with the MERN stack<br>🌱 Always learning something new<br>🚀 Fueled by caffeine, code, and the occasional bug fix 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nihita-kolukula-0b0416290/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihitakolukula@gmail.com) 
