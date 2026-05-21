@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!<br>I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm passionate about building impactful tech solutions across full-stack development, machine learning, and open-source contributions.<br><br>💻 Building scalable and user-focused full-stack applications<br><br>🤖 Exploring machine learning and AI-powered systems<br><br>🌱 Always learning, experimenting, and growing as a developer<br><br>🚀 Fueled by caffeine, code, and the occasional bug fix
+Hey there!<br>I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm passionate about building impactful tech solutions across full-stack development, machine learning, and open-source contributions.<br>💻 Building scalable and user-focused full-stack applications<br>🤖 Exploring machine learning and AI-powered systems<br>🌱 Always learning, experimenting, and growing as a developer<br>🚀 Fueled by caffeine, code, and the occasional bug fix
 
 
 ## 🌐 Socials:
