@@ -17,4 +17,10 @@ I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm pa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nihita123&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=7dcfff&area=true&hide_border=true" />
 </p>
 
+## 📊 GitHub Stats
+
+<p >
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Nihita123&theme=tokyonight&hide_border=true" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
