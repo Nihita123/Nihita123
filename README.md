@@ -2,7 +2,7 @@
   ✦ Hey there!
 </h1>
 
-I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm passionate about building impactful tech solutions across full-stack development, machine learning, and open-source contributions.<br>💻 Building scalable and user-focused full-stack applications<br>🤖 Exploring machine learning and AI-powered systems<br>🌱 Always learning, experimenting, and growing as a developer<br>🚀 Fueled by caffeine, code, and the occasional bug fix
+I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm passionate about building impactful tech solutions across full-stack development, machine learning, and open-source contributions.<br>💻 Building scalable and user-focused full-stack applications<br>🤖 Exploring machine learning and AI-powered systems<br>🌱 Always learning, experimenting, and growing as a developer<br>
 
 
 ## 🌐 Socials:
@@ -18,7 +18,6 @@ I'm Nihita Kolukula — an undergraduate student at ABV-IIITM Gwalior.<br>I'm pa
 </p>
 
 ## 📊 GitHub Stats
-
 <p >
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Nihita123&theme=tokyonight&hide_border=true" />
 </p>
